@@ -1,5 +1,5 @@
 Package: rlchroot
-Version: 1.06
+Version: 1.07
 Section: Containers
 Priority: optional
 Architecture: all
@@ -7,9 +7,9 @@ Depends: wget, proot, tar, ncurses-utils
 Maintainer: @wmcbtech30
 Description: Run Multiple Linux Distros on your Device without rooting, with lxc-inspired interface
 Filename: dists/termux/universe/binary-all/rlchroot.deb
-Size: 9476
-MD5Sum: 1ca08ccaabddf9a371cc715ba0732690
-SHA1: ef307d8a6e6ad33ff5976b4d239c67322d2dccb3
-SHA256: 9e0e4d7485f572392109cca394e6911b2169428467b08fc38466a307cfafc5f3
-SHA512: f2a7a503bc0ff5d71418f755f28cf37080e61085b5d5bf3e7b5f38f082c40de277af94b5852f0bd64d63c382fc8ffb27b2baf3a06c2b2e12db95fdf39c68245d
+Size: 9576
+MD5Sum: 23cfefc8bdb07d9a933852e47705ecc4
+SHA1: f736de860c682d7e7b3da4a66114e1fed97b2b94
+SHA256: 38e752410222b8982faf56188ee6d5f030f76acd7ddedff02028cccaf564a627
+SHA512: 53be8c415a54f9dc8b560b7cfcba73ed38ab58e3f023fa3343bd9870c99de203da2f50a82203cf6152c92368c9cfbd457671ab11186146a4479306cfb27a35a9
 
